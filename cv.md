@@ -84,5 +84,12 @@ Study course  "Сomputer graphics in polygraphy, animation and web design"
 Study Course “Fundamentals of 3D Computer Graphics (Maya)”
 
 ***
+### Language proficiency:
+
+**Russian** – native speaker;
+**English** – B1/B2;
+**Lithuanian** – A2 Level according to CEFR (confident user, can support communication in most everyday and professional contexts, National Certificate of Language Proficiency).
+
+
 
 
