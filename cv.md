@@ -36,4 +36,13 @@ I love to travel, play sports and dance.
 * Adobe Photoshop, CorelDrow, Illustrator
 
 ***
+### Code Example 
+
+This code does not execute properly. Try to figure out why.
+```
+function multiply(a, b){
+  return a * b
+}
+```
+***
 
