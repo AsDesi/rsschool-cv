@@ -45,4 +45,44 @@ function multiply(a, b){
 }
 ```
 ***
+### Courses:
+* HTML and CSS Tutorials on the BeonMax (completed)
+* HTML manual on ru.code-basics.com (in progress)
+* CSS manual on ru.code-basics.com (in progress)
+* JavaScript manual on learnjavascript.ru (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+* Figma Udemy (completed)
+* Webflpow Udemy (completed)
+* PHP Udemi (in progress)
+* Complete React Developer in 2022 (in progress)
+***
+
+### Formal education: 
+
+##### 1998-2001 
+**Leningrad Regional College of Culture and Art**
+St. Petersburg, Russia.
+Honours degree
+Social and cultural activity and folk art
+**Specialization:** Educator and organizer
+ 
+##### 2002-2008
+**St. Petersburg Academy of Arts named after Ilya Repin**
+St. Petersburg, Russia
+History and theory of visual arts
+**Specialization:** art criticism
+
+
+
+### Supplementary education
+* **2019 – present** – online courses on front-end web development 
+(LinkedIn Learning, Pluralsight, Udemy)
+* **2003-2004** – University ITMO (professional retraining)
+Study course  "Сomputer graphics in polygraphy, animation and web design"
+ 
+* **2006** - Сomputer graphics information and training center
+Study Course “Fundamentals of 3D Computer Graphics (Maya)”
+
+***
+
 
