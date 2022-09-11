@@ -12,8 +12,18 @@
 
 ***
 ## About myself.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit! 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aut commodi debitis ipsam nobis perspiciatis sequi, sint unde vitae.
+I have a lot of experience in the field of design.
+At first I worked in the printing industry.
+Then I started working in a company with programmers, where my duty was to develop website design.
+Gradually, I became interested in creating web sites through code.
+Since then, I have taken several online courses on this topic.
+I also have several independent projects, but so far made on Webflow and WordPress.
+In them, I partially used my new skills in HTML, CSS and Java Script.
 
+I appreciate humor and responsibility.
+I am a good team player.
+I have excellent teaching skills (I have a professional teaching education), and on the other hand I am a fast learner.
+I love to travel, play sports and dance.
 ***
+
