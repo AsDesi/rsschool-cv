@@ -29,7 +29,7 @@ I appreciate humor and responsibility.
 I am a good team player.
 I have excellent teaching skills (I have a professional teaching education), and on the other hand I am a fast learner.
 I love to travel, play sports and dance.
-***
+
 ### Skills and Proficiency:
 * HTML5, CSS3
 * JavaScript Basics
@@ -40,6 +40,7 @@ I love to travel, play sports and dance.
 * Adobe Photoshop, CorelDrow, Illustrator
 
 ***
+
 ### Code Example 
 
 This code does not execute properly. Try to figure out why.
@@ -59,6 +60,7 @@ function multiply(a, b){
 * Webflpow Udemy (completed)
 * PHP Udemi (in progress)
 * Complete React Developer in 2022 (in progress)
+
 ***
 
 ### Formal education: 
@@ -91,7 +93,9 @@ Study Course “Fundamentals of 3D Computer Graphics (Maya)”
 ### Language proficiency:
 
 **Russian** – native speaker;
+
 **English** – B1/B2;
+
 **Lithuanian** – A2 Level according to CEFR (confident user, can support communication in most everyday and professional contexts, National Certificate of Language Proficiency).
 
 
