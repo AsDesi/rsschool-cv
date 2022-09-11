@@ -26,4 +26,14 @@ I am a good team player.
 I have excellent teaching skills (I have a professional teaching education), and on the other hand I am a fast learner.
 I love to travel, play sports and dance.
 ***
+### Skills and Proficiency:
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+* Wordpress
+* Webflow
+* Adobe Photoshop, CorelDrow, Illustrator
+
+***
 
